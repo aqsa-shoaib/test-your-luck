@@ -1,5 +1,3 @@
-"""Probability game by Aqsa Shoaib (original project: January 12, 2025)."""
-
 import random
 
 
