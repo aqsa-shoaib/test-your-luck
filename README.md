@@ -29,7 +29,3 @@ python test_your_luck.py
 - Pseudorandom simulation
 - Counting outcomes and calculating percentages
 - Input validation
-
-## Project history
-
-This version preserves the rules of Aqsa's original classroom probability game while organizing the code and handling invalid round counts. The displayed percentage is the **observed win rate** from a simulation, not the exact theoretical probability.
